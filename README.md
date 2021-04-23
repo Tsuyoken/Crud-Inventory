@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 # Crud-Inventory
 Project Ujikom Inventory berbasis PHP
 =======
-<<<<<<< HEAD
+
 # Crud-Inventory
 Project Ujikom Inventory berbasis PHP
 =======
