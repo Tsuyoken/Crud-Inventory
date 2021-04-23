@@ -1,14 +1,7 @@
 # Crud-Inventory
 Project Ujikom Inventory berbasis PHP
-=======
 
-# Crud-Inventory
-Project Ujikom Inventory berbasis PHP
-=======
-# Aplikasi Inventaris Barang<br/>
-## Free Source Code<br/>
-
-### Aplikasi ini dibuat menggunakan
+## Aplikasi ini dibuat menggunakan
 - Codeigniter 3
 - Bootstrap 4
 - SB Admin 2 Template
