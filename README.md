@@ -2,13 +2,16 @@
 Project Ujikom Inventory berbasis PHP
 
 ## Aplikasi ini dibuat menggunakan
-- Codeigniter 3
-- Bootstrap 4
-- SB Admin 2 Template
-- Datatables
-- Chart.js
+
+- Php 7.2 
+- Codeigniter 3 (https://codeigniter.com)
+- Bootstrap 4 (https://getbootstrap.com/docs/4.0/getting-started/introduction)
+- SB Admin 2 Template (https://startbootstrap.com/theme/sb-admin-2)
+- Datatables (https://datatables.net) 
+- Chart.js (https://www.chartjs.org)
+- Mysql (https://www.mysql.com)
+
 
 ### Keterangan <br/>
 Database : <code>fix.sql</code><br/>
 <br/>
-
