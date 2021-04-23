@@ -15,3 +15,6 @@ Project Ujikom Inventory berbasis PHP
 ### Keterangan <br/>
 Database : <code>fix.sql</code><br/>
 <br/>
+
+Username : <code>admin</code>
+Password : <code>gatau</code>
